@@ -3,9 +3,4 @@ nano
 hack
 abcd
 dkdkdk
-<<<<<<< HEAD
-akaak
-sharp
-=======
 bobobo
->>>>>>> refs/remotes/origin/master
